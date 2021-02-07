@@ -45,6 +45,11 @@ header .subtitulo-header {
     margin-top: 50px;
 }
 
+.btn-descarga {
+    background: #F73859;
+    color: white;
+}
+
 @media (min-width: 992px) {
     .page-section .page-section-heading {
         font-size: 3rem;

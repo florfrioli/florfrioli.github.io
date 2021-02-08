@@ -50,6 +50,27 @@ header .subtitulo-header {
     color: white;
 }
 
+.img-proyecto {
+    max-height: 400px;
+}
+
+.tecnologia-img {
+    width: 30px;
+    height: 30px;
+}
+
+.wollok-img {
+    height: 30px;
+}
+
+.img-modal {
+    max-height: 200px;
+}
+
+.icono {
+    padding: 20px;
+}
+
 @media (min-width: 992px) {
     .page-section .page-section-heading {
         font-size: 3rem;
